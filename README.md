@@ -18,20 +18,7 @@ This repository contains code, documentation and analysis for a **compact, low-c
 
 ---
 
-## 🔭 Table of Contents
-- [Project Summary](#-project-summary)  
-- [Key features](#-key-features)  
-- [Repository layout](#-repository-layout)  
-- [Hardware & Instrumentation](#-hardware--instrumentation)  
-- [Experimental Methods](#-experimental-methods)  
-- [Important Findings & Performance](#-important-findings--performance)  
-- [Reproduce / Run Analysis](#-reproduce--run-analysis)  
-- [Software & Dependencies](#-software--dependencies)  
-- [Calibration & Analysis Recommendations](#-calibration--analysis-recommendations)  
-- [Safety & Field Notes](#-safety--field-notes)  
-- [Contact & License](#-contact--license)
 
----
 
 ## 🔬 Key features
 - 5×5 CsI scintillator tile array (1 cm × 1 cm each) read by four surrounding SiPM boards.  
