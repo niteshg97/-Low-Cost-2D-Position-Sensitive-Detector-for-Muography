@@ -1,4 +1,6 @@
-Low-Cost 2D Position-Sensitive Detector for Muography  
+Low-Cost 2D Position-Sensitive Detector for Muography :
+
+
 **Development and Testing of a Low-Cost Two-Dimensional Detector for Muography Applications**  
 **Authors:** Nitesh Kumar & Abhishek Keshri  
 **Dept. of Electrical Engineering, National Institute of Technology Patna**
@@ -79,6 +81,19 @@ This repository contains code, documentation and analysis for a **compact, low-c
 5. **Run acquisition & analysis:** use scripts in `software/acquisition/` and `software/analysis/` to generate histograms and position reconstructions.
 
 ---
+
+
+## 📄  Research Report
+[📥 Download Research Report (PDF)](https://drive.google.com/file/d/1eT6_xaiin4r7GBKihiGKqdDg9lgIdxMZ/view?usp=drive_link)
+
+### Testing Video
+
+📹 [Download & Watch Test Video](videos/field_test.mp4)
+
+
+https://github.com/user-attachments/assets/b1c45f91-9357-4d96-928b-dab7b29c329f
+
+
 
 ## 🛠 Software & Dependencies
 Recommended environment:
