@@ -56,7 +56,7 @@ This repository contains code, documentation and analysis for a **compact, low-c
 - **Long-term stability:** Background acquisition demonstrates stable event rates after thresholding and baseline correction.  
 - **Scalability:** Method scales to larger arrays with similar readout topology; calibration remains the main task.
 
-> Full quantitative plots, calibration curves and experimental logs are in `docs/IRoC-U_2025_Qual_round_report1_Team-11318.pdf`.
+> Full quantitative plots, calibration curves and experimental logs are in `Research Report.pdf`.
 
 ---
 
