@@ -1,4 +1,4 @@
-# ANAV — Low-Cost 2D Position-Sensitive Detector for Muography  
+Low-Cost 2D Position-Sensitive Detector for Muography  
 **Development and Testing of a Low-Cost Two-Dimensional Detector for Muography Applications**  
 **Authors:** Nitesh Kumar & Abhishek Keshri  
 **Dept. of Electrical Engineering, National Institute of Technology Patna**
