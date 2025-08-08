@@ -87,5 +87,4 @@ python 3.8+
 pip install numpy scipy matplotlib pandas jupyter
 
 
-## 📂 Repository layout
 
